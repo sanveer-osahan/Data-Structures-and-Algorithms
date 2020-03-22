@@ -15,8 +15,3 @@ Return the minimum starting gas station's index if you can travel around the cir
 
 ## Explanation
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/nTKdYm_5-ZY/0.jpg)](http://www.youtube.com/watch?v=nTKdYm_5-ZY "Coding Interview Problem: Petrol Filling Problem | Applied AI Course")
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nTKdYm_5-ZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-  </iframe>
-</div>
-
