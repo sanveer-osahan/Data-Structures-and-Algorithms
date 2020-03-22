@@ -14,5 +14,5 @@ ending up at i again.
 Return the minimum starting gas station's index if you can travel around the circuit once, otherwise return -1.
 
 ## Explanation
-https://www.youtube.com/watch?v=nTKdYm_5-ZY
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/nTKdYm_5-ZY/0.jpg)](http://www.youtube.com/watch?v=nTKdYm_5-ZY "Coding Interview Problem: Petrol Filling Problem | Applied AI Course")
 
